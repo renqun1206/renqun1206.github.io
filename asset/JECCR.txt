@@ -1,0 +1,9 @@
+@article{lin2019valproic,
+  title={Valproic acid exhibits anti-tumor activity selectively against EGFR/ErbB2/ErbB3-coexpressing pancreatic cancer via induction of ErbB family members-targeting microRNAs},
+  author={Lin, Tingting and Ren, Qun and Zuo, Weimin and Jia, Ruxue and Xie, Linhui and Lin, Rong and Zhao, Hu and Chen, Jin and Lei, Yan and Wang, Ping and others},
+  journal={Journal of Experimental \& Clinical Cancer Research},
+  volume={38},
+  pages={1--12},
+  year={2019},
+  publisher={Springer}
+}

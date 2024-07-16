@@ -1,0 +1,8 @@
+@article{cai2019integrative,
+  title={Integrative gene expression profiling reveals that dysregulated triple microRNAs confer paclitaxel resistance in non-small cell lung cancer via co-targeting MAPT},
+  author={Cai, Yuanming and Jia, Ruxue and Xiong, Haozhe and Ren, Qun and Zuo, Weimin and Lin, Tingting and Lin, Rong and Lei, Yan and Wang, Ping and Dong, Huiyue and others},
+  journal={Cancer Management and Research},
+  pages={7391--7404},
+  year={2019},
+  publisher={Taylor \& Francis}
+}

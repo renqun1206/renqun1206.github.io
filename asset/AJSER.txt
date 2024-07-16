@@ -1,0 +1,7 @@
+@article{ahiafor2024comparative,
+  title={A Comparative Analysis of The Motivations, Frustrations, And Career Aspirations of Pakistani And Chinese Medical Students Studying in China: A Cross-Sectional Study at Four Medical Universities in Shandong Province},
+  author={Ahiafor, M and Ren, Q},
+  journal={American J Sci Edu Re: AJSER},
+  volume={152},
+  year={2024}
+}

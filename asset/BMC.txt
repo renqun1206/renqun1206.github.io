@@ -1,0 +1,10 @@
+@article{ahiafor2023transnational,
+  title={Transnational online education in biochemistry during and after the COVID-19 pandemic in Binzhou Medical University: challenges, strategies and outcome},
+  author={Ahiafor, Maxwell and Li, Yanni and Zhang, Xiaodan and Ren, Qun},
+  journal={BMC Medical Education},
+  volume={23},
+  number={1},
+  pages={266},
+  year={2023},
+  publisher={Springer}
+}

@@ -1,0 +1,11 @@
+@article{wang2019lat,
+  title={LAT, HOXD3 and NFE2L3 identified as novel DNA methylation-driven genes and prognostic markers in human clear cell renal cell carcinoma by integrative bioinformatics approaches},
+  author={Wang, Jie and Zhao, Hu and Dong, Huiyue and Zhu, Ling and Wang, Shuiliang and Wang, Ping and Ren, Qun and Zhu, Hehuan and Chen, Junqiu and Lin, Zhijie and others},
+  journal={Journal of Cancer},
+  volume={10},
+  number={26},
+  pages={6726},
+  year={2019},
+  publisher={Ivyspring International Publisher}
+}
+}

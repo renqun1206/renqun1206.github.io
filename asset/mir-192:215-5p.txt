@@ -1,0 +1,10 @@
+@article{zhao2019mir,
+  title={miR-192/215-5p act as tumor suppressors and link Crohn's disease and colorectal cancer by targeting common metabolic pathways: An integrated informatics analysis and experimental study},
+  author={Zhao, Hu and Chen, Junqiu and Chen, Jin and Kong, Xuhui and Zhu, Hehuan and Zhang, Yongping and Dong, Huiyue and Wang, Jie and Ren, Qun and Wang, Qinghua and others},
+  journal={Journal of Cellular Physiology},
+  volume={234},
+  number={11},
+  pages={21060--21075},
+  year={2019},
+  publisher={Wiley Online Library}
+}
